@@ -5,6 +5,9 @@ AI-powered art generator based on VQGAN+CLIP
 Open the jupyter notebook in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rxchit/AI-art-gen/blob/main/ArtFromText_AI.ipynb)
+> Prompt "Hindu_God"
+
+![Hindu_God](pics/01.gif?raw=true "Hindu_God")
 
 # Aspect Ratios and Re-Sizing
 
@@ -29,8 +32,6 @@ I use that total number of pixels (700x700 = 490000) whenever I try other aspect
 | Cinemascope (2.4:1) | 1084:452   |
 | Manga (250:353)     | 576x812    |
 | Super 8 (1:1.33)    | 600x798    |
-
-
 
 # License
 
